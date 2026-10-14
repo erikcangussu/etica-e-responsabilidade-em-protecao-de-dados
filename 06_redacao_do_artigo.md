@@ -20,7 +20,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Metodologia
 
-`[Foi ultilizada análises de artigos e revisão documenta. A análise foi organizada por dois eixos: proteção de dados e desafios regulatórios; confidencialidade e responsabilidade profissional. Os estudos foram comparados quanto aos objetivos, às abordagens e às contribuições. Como não houve busca sistemática independente em múltiplas bases, não se pretende apresentar esta investigação como revisão sistemática.]`
+`[Foram ultilizadas análises de artigos e revisão documenta. A análise foi organizada por dois eixos: proteção de dados e desafios regulatórios; confidencialidade e responsabilidade profissional. Os estudos foram comparados quanto aos objetivos, às abordagens e às contribuições. Como não houve busca sistemática independente em múltiplas bases, não se pretende apresentar esta investigação como revisão sistemática.]`
 
 ## Revisão da literatura
 
